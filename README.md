@@ -1,6 +1,7 @@
 # Spring Boot Project
 
 This is a simple Spring Boot application.
+The application has been exended to a spring boot web application with a MySQL database connection.
 
 ## Prerequisites
 
