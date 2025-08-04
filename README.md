@@ -5,7 +5,7 @@ The application has been exended to a spring boot web application with a MySQL d
 
 ## Prerequisites
 
-- Java 11 or higher
+- Java 21 or higher
 - Maven 3.6 or higher
 
 ## Building the Project
